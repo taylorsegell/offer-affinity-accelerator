@@ -1,0 +1,1 @@
+{"description":"The modelfacts user AssetType to capture the user defined attributes of a model.","fields":[],"relationships":[],"localized_metadata_attributes":{"name":{"default":"Additional details","en":"Additional details"}},"global_search_searchable":[],"attribute_only":false,"version":1,"name":"modelfacts_user","scope":"PROJECT","allow_decorators":true}

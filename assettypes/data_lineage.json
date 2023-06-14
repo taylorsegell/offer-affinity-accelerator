@@ -1,0 +1,1 @@
+{"description":"Data lineage asset type","fields":[],"relationships":[],"localized_metadata_attributes":{"name":{"default":"Data lineage","en":"Data lineage"}},"global_search_searchable":[],"attribute_only":false,"version":1,"name":"data_lineage","scope":"GLOBAL","allow_decorators":false}
